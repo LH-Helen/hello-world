@@ -1,7 +1,7 @@
 # hello-world
 the first repository
 
-#Creat-ex-C++-01
+//Creat-ex-C++-01
 #include<iostream>
 using namespace std;
 int main()
